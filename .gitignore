@@ -1,5 +1,5 @@
-.txt
-.tmp
-.java
-.pyhthon
+*.txt
+*.tmp
+*.java
+*.python
 
